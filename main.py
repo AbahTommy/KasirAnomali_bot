@@ -1,1 +1,0 @@
-pip install pyTelegramBotAPI pandas openpyxl
